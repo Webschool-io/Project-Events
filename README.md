@@ -1,7 +1,8 @@
 # Project-Events
+---
 ## Sistema para gerenciamento de EVENTOS
 
-Um gerenciador de eventos é uma ferramenta utilizada para organizar eventos, tais como congressos, simpósios, feiras, palestras, cursos, entre outros. Muitas organizações ainda realizam esse gerenciamento de forma manual e descentralizada. Sendo assim, o sistema gerenciador de eventos (SGE) deve apresentar os recursos necessários para que tanto os organizadores possam gerenciar os eventos, como os participantes possam se inscrever e acompanhar notícias acerca de eventos futuros.
+===
 
 Requisitos:
 
